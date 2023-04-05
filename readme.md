@@ -51,4 +51,4 @@ The election details will be downloaded as a csv file in your computer.
 ## Found a bug?
 If you found an issue or would like to submit an improvement to this project:
 
-- contact me on my GIT or my DISCORD profile ->  marek3jan
+- contact me on my DISCORD profile ->  marek3jan
