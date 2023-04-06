@@ -92,19 +92,19 @@ def write_csv_file():
                             writer.writeheader()
                         w.writerow(row)
 
-        return print(f"csv file generated".upper())
+        return "csv file generated".upper()
     else:
-        return print(f"Wrong web-page".upper())
+        return "Wrong web-page".upper()
 
 
 #3_Program_Runner:
 #       - code that generates the input of arguments into the program and runs the program to create a csv file
 if __name__ == "__main__":
     if len(arguments) < 2:
-        print(f"First argument needed".upper())
+        print("First argument needed".upper())
 
     elif len(arguments) > 2:
-        print(f"More arguments than required".upper())
+        print("More arguments than required".upper())
 
     else:
         url = input("Insert your webpage: ".upper())
