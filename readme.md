@@ -14,18 +14,18 @@ The election details will be downloaded as a csv file in your computer.
 
 * You will see the Table of the Results of Elections and Referendums
 * Go to Chamber of Deputies -> click on the chosen year
-* Another webpage shows up -> click on  Results for territorial units
+* Another web-page shows up -> click on  Results for territorial units
 * Similar page like this will show up:  https://www.volby.cz/pls/ps2002/ps4?xjazyk=EN
-  * You can use this webpage for web-scraping if you want to harness information on the national scale
+  * You can use this web-page for web-scraping if you want to harness information on the national scale
 * On the territorial scale, select your territorial subdivision on the shown table
 * Click on the x sign on the last column  (Choice of municipality column)
 * Similar page like this will show up: https://www.volby.cz/pls/ps2002/ps45?xjazyk=EN&xkraj=2&xokres=2101
-  * This webpage can be used to harness data on the scale of the chosen territorial subdivision
+  * This web-page can be used to harness data on the scale of the chosen territorial subdivision
 
 ## Brief user guide:
 
 * Install Python 3.11.2 (or newer version)
-  * For more user-friedly use, installing PyCharm is recommended
+  * For more user-friendly practise, installing PyCharm is recommended
 
 * Open the Command Prompt:
   * make sure that your root directory corresponds with the directory of your downloaded python file
