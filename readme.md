@@ -25,7 +25,7 @@ The election details will be downloaded as a csv file in your computer.
 ## Brief user guide:
 
 * Install Python 3.11.2 (or newer version)
-  * For more user-friedly use, installing PyCharm is recommended
+  * For more user-friedly pracitse, installing PyCharm is recommended
 
 * Open the Command Prompt:
   * make sure that your root directory corresponds with the directory of your downloaded python file
