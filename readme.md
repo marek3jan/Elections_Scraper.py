@@ -32,7 +32,7 @@ The election details will be downloaded as a csv file in your computer.
   * make sure your virtual environment is active and that Python and pip is succesfully installed
     * you can also proceed this by installing PyCharm, downloading this project on Pycharm and using the Terminal
     
-* Type the arguments into the directory: > python   election_scraper.py   name_of_your_file
+* Type the arguments into the directory: >python   election_scraper.py   name_of_your_file
   * The last argument is supposed to be the name of your csv file 
   * Do not write .csv as the suffix to your last argument, the program will do that automatically
 * The program will command you to insert the web-page > insert your selected web-page
