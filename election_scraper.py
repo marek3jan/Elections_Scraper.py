@@ -94,7 +94,7 @@ def write_csv_file():
 
         return print("csv file generated".upper())
     else:
-        return print("Wrong web-page".upper())
+        return print("Wrong webpage".upper())
 
 
 #3_Program_Runner:
