@@ -92,9 +92,9 @@ def write_csv_file():
                             writer.writeheader()
                         w.writerow(row)
 
-        return "csv file generated".upper()
+        return print("csv file generated".upper())
     else:
-        return "Wrong web-page".upper()
+        return print("Wrong web-page".upper())
 
 
 #3_Program_Runner:
